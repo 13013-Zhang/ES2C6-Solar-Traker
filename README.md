@@ -5,7 +5,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-This is a solar tracker repository for the ES2C6 course (or personal project). This project includes two distinct Arduino implementations to demonstrate and compare different solar tracking strategies.
+This is a solar tracker repository for the ES2C6 course. This project includes two distinct Arduino implementations to demonstrate and compare different solar tracking strategies.
 
 1.  **Simple LDR + OLED Tracker**: A pure "active" tracker that uses four LDRs (Light Dependent Resistors) to find the brightest light source and displays real-time data on an OLED screen.
 2.  **Advanced Hybrid + Web UI Tracker**: A "hybrid" tracker that uses an Arduino R4 WiFi to fetch precise UTC time, calculate the sun's astronomical position (azimuth/elevation), and then uses LDRs for fine-tuning. It also hosts a modern Web UI for status monitoring.
@@ -24,7 +24,7 @@ This is a solar tracker repository for the ES2C6 course (or personal project). T
 ├── simple-ldr-oled-tracker/  
 │   └── V1.2_OLED_4SPI.ino  
 │  
-├── advanced-hybrid-tracker/
+├── advanced-hybrid-tracker/  
 │   └── V2.1_EN.ino  
 │  
 └── Demo/   
