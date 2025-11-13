@@ -135,6 +135,27 @@ This model uses a simple **Feedback Loop**:
 4.  If the horizontal difference is greater than the `tolerance`, move the horizontal servo left or right.
 5.  This process repeats, constantly minimizing the LDR differences to stay pointed at the light source.
 
+---
+
+
+## 🎉 Acknowledgements / Group Members
+
+This project was a collaborative effort for the ES2C6 module, and the successful outcome is a result of the dedicated work of the entire team. We extend our sincere thanks to the following members:
+
+| Name | Assigned Role |
+| :--- | :--- |
+| **MONTEIRO, MARCUS** | Background Research |
+| **ZHAO, HAOXIANG (Owen)** | Mechanical Design and CAD Work |
+| **JACKSON, JOSH** | Electronic Design |
+| **STEPHAN, FREDDY** | Manufacture of Mechanical Components and Electronic Circuit Boards |
+| **MAINI, ROHAAN** | Assembly |
+| **BOYU ZHANG (BOB)** | Programming and Testing |
+| **CHARUSIRISAWAD, PUN** | Overall Project Management and Assigned Task Lead |
+
+A special thank you to **Pun** for the overall project management and leadership.
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE). (Recommended). You should add a `LICENSE` file to your repository.
